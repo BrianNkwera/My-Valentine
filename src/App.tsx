@@ -13,7 +13,7 @@ import Page11_YesCelebration from "./pages/Page11_YesCelebration";
 
 const App: React.FC = () => {
   return (
-    <Router>
+    <Router basename="/My-Valentine/">
       <Routes>
         <Route path="/" element={<Page1_SecretCode />} />
         <Route path="/hey-my-love" element={<Page2_HeyMyLove />} />
