@@ -30,7 +30,7 @@ const Page11_YesCelebration: React.FC = () => {
             </div>
 
             <h1 className="valentine-title">
-              You Just Made My Day Babygirl
+              You Just Made My Day My Love
             </h1>
 
             <p className="valentine-text">
